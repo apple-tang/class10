@@ -9,12 +9,30 @@ img {
     margin: 0 auto;
 }
 
-/* 超长图片处理 */
-img.very-long-image {
-    max-height: 80vh; /* 限制图片最大高度为视口高度的80% */
-    width: auto; /* 自动计算宽度以保持比例 */
-    object-fit: contain; /* 确保整个图片都能显示出来 */
-    overflow-y: auto; /* 如果图片仍然很长，可以滚动查看 */
+/* 超长图片优化样式 */
+.markdown-body img[src*="趣事"] {
+  max-height: 500px;
+  width: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  border: 2px solid #f0f0f0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.markdown-body img[src*="趣事"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 25px rgba(0,0,0,0.2);
+}
+
+/* 添加滚动提示文本 */
+.markdown-body p:has(+ p > img[src*="趣事"]) {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 5px;
 }
 
 /* 图片容器样式 */

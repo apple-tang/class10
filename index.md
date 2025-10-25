@@ -24,30 +24,12 @@
 
 ## 十班图录
 内容大都为郭姐制作
-<div class="image-container">
-  <img src="contents/1.jpg" alt="超长图片" class="very-long-image fade-in">
-  <figcaption>趣事1</figcaption>
-</div>
-<div class="image-container">
-  <img src="contents/2.jpg" alt="超长图片" class="very-long-image fade-in">
-  <figcaption>趣事2</figcaption>
-</div>
-<div class="image-container">
-  <img src="contents/3.jpg" alt="超长图片" class="very-long-image fade-in">
-  <figcaption>趣事3</figcaption>
-</div>
-<div class="image-container">
-  <img src="contents/4.jpg" alt="超长图片" class="very-long-image fade-in">
-  <figcaption>趣事4</figcaption>
-</div>
-<div class="image-container">
-  <img src="contents/5.jpg" alt="超长图片" class="very-long-image fade-in">
-  <figcaption>趣事5</figcaption>
-</div>
-<div class="image-container">
-  <img src="contents/6.jpg" alt="超长图片" class="very-long-image fade-in">
-  <figcaption>趣事6</figcaption>
-</div>
+![趣事1](contents/趣事1.jpg)
+![趣事2](contents/趣事2.jpg)
+![趣事3](contents/趣事3.jpg)
+![趣事4](contents/趣事4.jpg)
+![趣事5](contents/趣事5.jpg)
+![趣事6](contents/趣事6.jpg)
 
 ## 十班语录1
 
