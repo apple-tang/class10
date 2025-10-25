@@ -2,19 +2,18 @@
 时光荏苒，岁月如歌。曾经，我们在这里一起奋斗，一起欢笑，一起度过了人生中最美好的年华。每一张照片，都是时光的标本，记录着我们共同的记忆。愿这个小小的空间，能成为我们永远的精神家园，让这些珍贵的回忆，永不褪色。
 
 ## 班级合照
-
-！![2016秋季运动会](contents/2016秋季运动会.jpg)
-！![2017元旦](contents/2017元旦.jpg)
-！![毕业合照](contents/毕业合照.jpg)
+![2016秋季运动会](contents/2016秋季运动会.jpg)
+![2017元旦](contents/2017元旦.jpg)
+![毕业合照](contents/毕业合照.jpg)
 
 ## 十班图录
 内容大都为郭姐制作
-！！[1](contents/1.jpg)
-！！[2](contents/2.jpg)
-！！[3](contents/3.jpg)
-！！[4](contents/4.jpg)
-！！[5](contents/5.jpg)
-！！[6](contents/6.jpg)
+！[1](contents/1.jpg)
+！[2](contents/2.jpg)
+！[3](contents/3.jpg)
+！[4](contents/4.jpg)
+！[5](contents/5.jpg)
+！[6](contents/6.jpg)
 
 ## 十班语录1
 
@@ -23,4 +22,4 @@
 
 ## 大家去向
 
-！![大家去向](contents/大家去向.jpg)
+![大家去向](contents/大家去向.jpg)
