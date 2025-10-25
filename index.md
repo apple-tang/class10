@@ -9,7 +9,6 @@
 </div>
 
 <div class="album">
-  <div class="album-title">运动会精彩瞬间</div>
   <div class="image-grid">
     <div class="image-item">
       <img src="contents/2016秋季运动会.jpg" alt="秋季运动会">
@@ -25,12 +24,30 @@
 
 ## 十班图录
 内容大都为郭姐制作
-![1](contents/1.jpg)
-![2](contents/2.jpg)
-![3](contents/3.jpg)
-![4](contents/4.jpg)
-![5](contents/5.jpg)
-![6](contents/6.jpg)
+<div class="image-container">
+  <img src="contents/1.jpg" alt="超长图片" class="very-long-image fade-in">
+  <figcaption>趣事1</figcaption>
+</div>
+<div class="image-container">
+  <img src="contents/2.jpg" alt="超长图片" class="very-long-image fade-in">
+  <figcaption>趣事2</figcaption>
+</div>
+<div class="image-container">
+  <img src="contents/3.jpg" alt="超长图片" class="very-long-image fade-in">
+  <figcaption>趣事3</figcaption>
+</div>
+<div class="image-container">
+  <img src="contents/4.jpg" alt="超长图片" class="very-long-image fade-in">
+  <figcaption>趣事4</figcaption>
+</div>
+<div class="image-container">
+  <img src="contents/5.jpg" alt="超长图片" class="very-long-image fade-in">
+  <figcaption>趣事5</figcaption>
+</div>
+<div class="image-container">
+  <img src="contents/6.jpg" alt="超长图片" class="very-long-image fade-in">
+  <figcaption>趣事6</figcaption>
+</div>
 
 ## 十班语录1
 

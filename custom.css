@@ -9,18 +9,42 @@ img {
     margin: 0 auto;
 }
 
+/* 超长图片处理 */
+img.very-long-image {
+    max-height: 80vh; /* 限制图片最大高度为视口高度的80% */
+    width: auto; /* 自动计算宽度以保持比例 */
+    object-fit: contain; /* 确保整个图片都能显示出来 */
+    overflow-y: auto; /* 如果图片仍然很长，可以滚动查看 */
+}
+
 /* 图片容器样式 */
 .image-container {
     width: 100%;
     margin-bottom: 20px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
+/* 图片说明文字样式 - 增强文字居中 */
 .image-container figcaption {
     margin-top: 10px;
     font-style: italic;
     color: #666;
     font-size: 14px;
+    text-align: center;
+    width: 100%;
+}
+
+/* 班级合照特殊样式 - 调整为更精确的居中 */
+.class-photo {
+    max-width: 90%;
+    margin: 20px auto;
+    border: 5px solid #fff;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+    display: block;
 }
 
 /* 图片网格布局 */
