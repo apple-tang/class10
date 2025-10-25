@@ -3,24 +3,9 @@
 
 ## 班级合照
 
-<div class="image-container">
-  <img src="contents/毕业合照.jpg" alt="毕业合照" class="class-photo fade-in">
-  <figcaption>2018年毕业照</figcaption>
-</div>
-
-<div class="album">
-  <div class="image-grid">
-    <div class="image-item">
-      <img src="contents/2016秋季运动会.jpg" alt="秋季运动会">
-      <div class="caption">2016年秋季运动会</div>
-    </div>
-    <div class="image-item">
-      <img src="contents/2017元旦.jpg" alt="元旦晚会">
-      <div class="caption">2017年元旦晚会</div>
-    </div>
-    <!-- 添加更多图片 -->
-  </div>
-</div>
+![班级合照](contents/毕业合照.jpg)
+![2016秋季运动会](contents/2016秋季运动会.jpg)
+![2017元旦](contents/2017元旦.jpg)
 
 ## 十班图录
 内容大都为郭姐制作
