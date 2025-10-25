@@ -8,12 +8,12 @@
 
 ## 十班图录
 内容大都为郭姐制作
-！[1](contents/1.jpg)
-！[2](contents/2.jpg)
-！[3](contents/3.jpg)
-！[4](contents/4.jpg)
-！[5](contents/5.jpg)
-！[6](contents/6.jpg)
+![1](contents/1.jpg)
+![2](contents/2.jpg)
+![3](contents/3.jpg)
+![4](contents/4.jpg)
+![5](contents/5.jpg)
+![6](contents/6.jpg)
 
 ## 十班语录1
 
@@ -21,5 +21,4 @@
 ![十班史记](contents/十班语录1.md)
 
 ## 大家去向
-
 ![大家去向](contents/大家去向.jpg)
